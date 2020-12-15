@@ -68,7 +68,7 @@
         <p>Las pruebas de usuario estan compuestas por dos tipos de archivo: El <em>STEPS</em> y el <em>Feature</em></p>
        <ol>
             <li><b>Como repartidor quiero barajar.</b></li>
-                <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>barajar</em></p>
+                <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>barajar</em>.</br>Usamos los features donde creamos la test suite para verificar un requerimiento determinado. El archivo feature contiene escenarios donde definimos los pasos Given->When->Then para verificar los criterios de aceptación de la funcionalidad en desarrollo. </br> Entonces, vamos a tener muchos archivos features con criterios de aceptación que describen los comportamientos de la aplicación y una gran cantidad de código que ejercita la aplicación linkeado a los Given->When->Then que son llamados desde los escenarios en los features.</p>
             <li><b>Como repartidor quiero entregar 2 cartas para iniciar el juego.</b></li>
             <li><b>Como jugador quiero determinar el valor de una carta para determinar el valor de la mano.</b></li>
             <li><b>Como jugador quiero determinar el valor de la mano para seguir jugando.</b></li>
