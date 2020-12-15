@@ -46,3 +46,4 @@
         </ol>
         
 <h1> 3) ¿Como realizar las pruebas de aceptacion mediante (<EM>BEHAVE</EM>) comando de Python?</h1>
+<p>Para realizar este tipo de pruebas, con el comando <EM>BEHAVE</EM> de python. Primero debemos seguir una lista de pasos, como primero tener instalado este lenguaje de programacion en nuestro sistema, un entorno de programacion (como Pycharm o el propio Visual Studio Code) y un administrador de paquetes que nos permitira instalar el <EM>BEHAVE</EM>, que para este caso sera el <b><PIP</EM></b></p>
