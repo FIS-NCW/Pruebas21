@@ -44,6 +44,9 @@
             <li> Los jugadores que saquen BlackJack (as más 10 o figura) se les paga 3×2 y aquellos que superen al crupier se les paga 1×1 según la apuesta que hayan hecho.</li>
         </ul>    
         </ol>
-        
-<h1> 3) ¿Como realizar las pruebas de aceptacion mediante (<EM><U>BEHAVE</U></EM>) comando de Python?</h1>
+<h1>3)Historias de usuario que se definieron para este juego:</h1>
+        <p>Las historias de usuario son una representación de un requisito escrito en una o dos frases utilizando el lenguaje común del usuario. en palabras mas simples: son pequeñas descripciones de los requerimientos de un cliente. <br>Para el juego del 21 o BlackJack se tuvieron en cuenta las siguientes:</p>
+
+
+<h1> 4) ¿Como realizar las pruebas de aceptacion mediante (<EM><U>BEHAVE</U></EM>) comando de Python?</h1>
 <p>Para realizar este tipo de pruebas, con el comando <EM>BEHAVE</EM> de python. Primero debemos seguir una lista de pasos, como primero tener instalado este lenguaje de programacion en nuestro sistema, un entorno de programacion (como Pycharm o el propio Visual Studio Code) y un administrador de paquetes que nos permitira instalar el <EM>BEHAVE</EM>, que para este caso sera el <b><EM>PIP</EM></b>.</p>
