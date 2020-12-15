@@ -45,7 +45,7 @@
         </ul>    
         </ol>
 <h1>3)Historias de usuario que se definieron para este juego:</h1>
-        <p>Las historias de usuario son una representación de un requisito escrito en una o dos frases utilizando el lenguaje común del usuario. en palabras mas simples: son pequeñas descripciones de los requerimientos de un cliente. <br>Teniendo en cuenta las reglas descritas anteriormente y su paso a paso, se tuvieron en cuenta las siguientes, por simplicidad del proyecto</p>
+        <p>Las historias de usuario son una representación de un requisito escrito en una o dos frases utilizando el lenguaje común del usuario. en palabras mas simples: son pequeñas descripciones de los requerimientos de un cliente. <br>Teniendo en cuenta las reglas descritas anteriormente y su paso a paso, se tuvieron en cuenta las siguientes, por simplicidad del proyecto:</p>
         <ul type="circle">
             <li>Como repartidor quiero entregar 2 cartas para iniciar el juego.</li>
             <li>Como jugador quiero determinar el valor de la mano para seguir jugando.</li>
