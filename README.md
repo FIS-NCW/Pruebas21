@@ -67,6 +67,7 @@
 <h1> 5) Realizar pruebas de aceptacion</h1>        
        <ol>
             <li><b>Como repartidor quiero barajar.</b></li>
+                <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>barajar</em></p>
             <li><b>Como repartidor quiero entregar 2 cartas para iniciar el juego.</b></li>
             <li><b>Como jugador quiero determinar el valor de una carta para determinar el valor de la mano.</b></li>
             <li><b>Como jugador quiero determinar el valor de la mano para seguir jugando.</b></li>
