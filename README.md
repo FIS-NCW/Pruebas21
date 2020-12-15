@@ -71,10 +71,10 @@
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>barajar</em>. Revuelve las cartas.</p>
                 <h4>Feature</h4>
                 <p></p>
-                <img src="https://user-images.githubusercontent.com/54086394/102276217-8046d480-3ef4-11eb-8706-b463f00c18de.png"/>
+                <img src="https://user-images.githubusercontent.com/54086394/102276520-eb90a680-3ef4-11eb-85f2-79d259124c7a.png"/>
                 <h4>STEPS</h4>
                 <p></p>
-                <img src="https://user-images.githubusercontent.com/54086394/102276217-8046d480-3ef4-11eb-8706-b463f00c18de.png"/>
+                <img src="https://user-images.githubusercontent.com/54086394/102276525-ed5a6a00-3ef4-11eb-809d-a5dd3f0cc13f.png"/>
             <li><b>Como repartidor quiero entregar 2 cartas para iniciar el juego.</b></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>InicioJuego</em>. Sirve para empezar el juego</p>
                 <h4>Feature</h4>
