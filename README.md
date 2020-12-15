@@ -70,10 +70,10 @@
             <li><b>Como repartidor quiero barajar.</b></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>barajar</em>. Revuelve las cartas.</p>
                 <h4>Feature</h4>
-                <p></p>
+                <p>En este caso, el feature tiene el escenario de barajar, dado un mazo de 52 cartas para jugar al 21. Esta accion se da cuando el repartidor baraja (revuelve) el mazo, luego de esto se comprueba que las cartas no sean iguales</p>
                 <img src="https://user-images.githubusercontent.com/54086394/102276520-eb90a680-3ef4-11eb-85f2-79d259124c7a.png"/>
                 <h4>STEPS</h4>
-                <p></p>
+        <p>En los steps, vemos la implementacion mediante <SAMP>Def</SAMP> de los <SAMP>@Given, @When y @Then</SAMP> dos veces, ya que tambien toca corroborar la cantidad de cartas, que es 52.</p>
                 <img src="https://user-images.githubusercontent.com/54086394/102276525-ed5a6a00-3ef4-11eb-809d-a5dd3f0cc13f.png"/>
             <li><b>Como repartidor quiero entregar 2 cartas para iniciar el juego.</b></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>InicioJuego</em>. Sirve para empezar el juego</p>
