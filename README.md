@@ -62,3 +62,5 @@
             <li>Instalar Behave</li>
         <p>Para instalar el Behave es tan sencillo como abrir la terminal en nuestro Visual Studio Code y poner lo siguiente <samp>PIP install behave</samp></p><img src="https://user-images.githubusercontent.com/54086394/102171797-58f4f680-3e65-11eb-89b3-22fed63b6888.jpeg"/>
         </ol>
+        
+<h1> 5) Realizar pruebas de aceptacion</h1>        
