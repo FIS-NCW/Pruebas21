@@ -27,6 +27,7 @@
                         <li> Los jugadores que saquen BlackJack (as más 10 o figura) se les paga 3×2 y aquellos que superen al crupier se les paga 1×1 según la apuesta que hayan                hecho.</li>
                  </ul> 
         <li><big><b>Valores de las cartas</b></big></li>
+        <p>El As es la única carta de la baraja que tiene dos valores, 1 y 11, siendo el jugador que lo posea quien elige el valor entre ambos según le convenga. Son cartas muy        valiosas por esta virtud.Las cartas numeradas con índice del dos al diez tienen el valor correspondiente a su numeración.Por su parte, todas las figuras (Jack, Queen y King), tienen el mismo valor: 10. Importante dato para el jugador, es saber que en 52 cartas, hay 16 con un valor de 10. A continuacion se anexara una imagen para entender mejor lo escrito en esta seccion.</p>
         <li><big><b>Paso a paso del juego:</b></big></li>
              <ul type="square">
             <li>Al inicio de cada partida el jugador debe apostar.</li>
