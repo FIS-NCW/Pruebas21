@@ -6,5 +6,6 @@
             <li>Cristian Felipe Ramirez Ovalles - 20172020068</li>
         </ul>
         
-  <p>En este repositorio, se encontrar el paso a paso (como un tutorial) para el juego denominado 21 </p>
-    
+  <p>En este repositorio, se encontrara el paso a paso (como un tutorial) para el juego denominado 21 y como realizar sus pruebas de aceptacion.</p>
+  
+
