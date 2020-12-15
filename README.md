@@ -78,18 +78,18 @@
             <li><b>Como repartidor quiero entregar 2 cartas para iniciar el juego.</b></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>InicioJuego</em>. Sirve para empezar el juego</p>
                 <h4>Feature</h4>
-                <p>En este caso, el feature tiene el escenario outline de determinar el valor de la carta, se da, para una carta de modo que el jugador desee conocer su valor, luego se corrobora que el valor de dicha carta es correcto (corresponde al valor de las cartas conocidas).</br> Ademas se agrega los <samp>Examples</samp> o ejemplos conocidos y ciertos.</p>
+                <p></p>
                 <img src="https://user-images.githubusercontent.com/54086394/102273465-5c818f80-3ef0-11eb-8fb5-be9fbb44c685.png"/>
                 <h4>STEPS</h4>
-                <p>En los steps, vemos la implementacion mediante <SAMP>Def</SAMP> de los <SAMP>@Given, @When y @Then</SAMP>, Esto hace que el programa: Dada una carta, cuando el jugador quiere saber el valor de esta, corrobora que su valor sea correcto</p>
+                <p></p>
                 <img src="https://user-images.githubusercontent.com/54086394/102273468-5d1a2600-3ef0-11eb-898d-f8661cae59b4.png"/>
             <li><b>Como jugador quiero determinar el valor de una carta para determinar el valor de la mano.</b></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>Carta</em>. Sirve para que el jugador pueda determinar el valor de las cartas</p>
                 <h4>Feature</h4>
-                <p></p>
+                <p>En este caso, el feature tiene el escenario outline de determinar el valor de la carta, se da, para una carta de modo que el jugador desee conocer su valor, luego se corrobora que el valor de dicha carta es correcto (corresponde al valor de las cartas conocidas).</br> Ademas se agrega los <samp>Examples</samp> o ejemplos conocidos y ciertos.</p>
                 <img src="https://user-images.githubusercontent.com/54086394/102273465-5c818f80-3ef0-11eb-8fb5-be9fbb44c685.png"/>
                 <h4>STEPS</h4>
-                <p></p>
+                <p>En los steps, vemos la implementacion mediante <SAMP>Def</SAMP> de los <SAMP>@Given, @When y @Then</SAMP>, Esto hace que el programa: Dada una carta, cuando el jugador quiere saber el valor de esta, corrobora que su valor sea correcto.</p>
                 <img src="https://user-images.githubusercontent.com/54086394/102273468-5d1a2600-3ef0-11eb-898d-f8661cae59b4.png"/>
             <li><b>Como jugador quiero determinar el valor de la mano para seguir jugando.</b></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>Mano</em>. Sirve para que el jugador pueda determinar de su mano y de esta forma pueda escoger otras opciones.</p>
