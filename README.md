@@ -68,13 +68,13 @@
         <p>Las pruebas de usuario estan compuestas por dos tipos de archivo: El <em>STEPS</em> y el <em>Feature</em>.</br>Usamos los features donde creamos la test suite para verificar un requerimiento determinado. El archivo feature contiene escenarios donde definimos los pasos Given->When->Then para verificar los criterios de aceptación de la funcionalidad en desarrollo. </br> Entonces, vamos a tener muchos archivos features con criterios de aceptación que describen los comportamientos de la aplicación y una gran cantidad de código que ejercita la aplicación linkeado a los Given->When->Then que son llamados desde los escenarios en los features.</br> Los STEPS, son los pasos que sigue el programa, por lo que lo que hace behave es comparar los features, que vienen dados por los scenarios y unos valores conocidos, con los steps. Si no suelta errores, el programa tendria sus pruebas de aceptacion validas</br></br>A continuacion mostraremos imagenes de los steps y Features para cada historia de usuario.</p>
        <ol>
             <li><b>Como repartidor quiero barajar.</b></li>
-                <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>barajar</em>.</p>
+                <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>barajar</em>. Revuelve las cartas.</p>
                 <h4>Feature</h4>
                 <p></p>
-                <img src="https://user-images.githubusercontent.com/54086394/102273465-5c818f80-3ef0-11eb-8fb5-be9fbb44c685.png"/>
+                <img src="https://user-images.githubusercontent.com/54086394/102276217-8046d480-3ef4-11eb-8706-b463f00c18de.png"/>
                 <h4>STEPS</h4>
                 <p></p>
-                <img src="https://user-images.githubusercontent.com/54086394/102273468-5d1a2600-3ef0-11eb-898d-f8661cae59b4.png"/>
+                <img src="https://user-images.githubusercontent.com/54086394/102276217-8046d480-3ef4-11eb-8706-b463f00c18de.png"/>
             <li><b>Como repartidor quiero entregar 2 cartas para iniciar el juego.</b></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>InicioJuego</em>. Sirve para empezar el juego</p>
                 <h4>Feature</h4>
