@@ -44,3 +44,5 @@
             <li> Los jugadores que saquen BlackJack (as más 10 o figura) se les paga 3×2 y aquellos que superen al crupier se les paga 1×1 según la apuesta que hayan hecho.</li>
         </ul>    
         </ol>
+        
+<h1> 3) ¿Como realizar las pruebas de aceptacion mediante (<EM>BEHAVE</EM>) comando de Python?</h1>
