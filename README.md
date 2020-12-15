@@ -76,9 +76,51 @@
                 <p></p>
                 <img src="https://user-images.githubusercontent.com/54086394/102273468-5d1a2600-3ef0-11eb-898d-f8661cae59b4.png"/>
             <li><b>Como repartidor quiero entregar 2 cartas para iniciar el juego.</b></li>
+                <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>Carta</em>. Sirve para que el jugador pueda determinar el valor de las cartas</p>
+                <h4>Feature</h4>
+                <p></p>
+                <img src="https://user-images.githubusercontent.com/54086394/102273465-5c818f80-3ef0-11eb-8fb5-be9fbb44c685.png"/>
+                <h4>STEPS</h4>
+                <p></p>
+                <img src="https://user-images.githubusercontent.com/54086394/102273468-5d1a2600-3ef0-11eb-898d-f8661cae59b4.png"/>
             <li><b>Como jugador quiero determinar el valor de una carta para determinar el valor de la mano.</b></li>
+                <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>Carta</em>. Sirve para que el jugador pueda determinar el valor de las cartas</p>
+                <h4>Feature</h4>
+                <p></p>
+                <img src="https://user-images.githubusercontent.com/54086394/102273465-5c818f80-3ef0-11eb-8fb5-be9fbb44c685.png"/>
+                <h4>STEPS</h4>
+                <p></p>
+                <img src="https://user-images.githubusercontent.com/54086394/102273468-5d1a2600-3ef0-11eb-898d-f8661cae59b4.png"/>
             <li><b>Como jugador quiero determinar el valor de la mano para seguir jugando.</b></li>
+                <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>Carta</em>. Sirve para que el jugador pueda determinar el valor de las cartas</p>
+                <h4>Feature</h4>
+                <p></p>
+                <img src="https://user-images.githubusercontent.com/54086394/102273465-5c818f80-3ef0-11eb-8fb5-be9fbb44c685.png"/>
+                <h4>STEPS</h4>
+                <p></p>
+                <img src="https://user-images.githubusercontent.com/54086394/102273468-5d1a2600-3ef0-11eb-898d-f8661cae59b4.png"/>
             <li><b>Como jugador quiero solicitar una carta adicional para seguir jugando.</b></li>
+                <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>Carta</em>. Sirve para que el jugador pueda determinar el valor de las cartas</p>
+                <h4>Feature</h4>
+                <p></p>
+                <img src="https://user-images.githubusercontent.com/54086394/102273465-5c818f80-3ef0-11eb-8fb5-be9fbb44c685.png"/>
+                <h4>STEPS</h4>
+                <p></p>
+                <img src="https://user-images.githubusercontent.com/54086394/102273468-5d1a2600-3ef0-11eb-898d-f8661cae59b4.png"/>
             <li><b>Como jugador quiero plantarme para finalizar el turno.</b></li>
+                <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>Carta</em>. Sirve para que el jugador pueda determinar el valor de las cartas</p>
+                <h4>Feature</h4>
+                <p></p>
+                <img src="https://user-images.githubusercontent.com/54086394/102273465-5c818f80-3ef0-11eb-8fb5-be9fbb44c685.png"/>
+                <h4>STEPS</h4>
+                <p></p>
+                <img src="https://user-images.githubusercontent.com/54086394/102273468-5d1a2600-3ef0-11eb-898d-f8661cae59b4.png"/>
             <li><b>Como repartidor quiero saber el valor de las manos para determinar quién gana.</b></li>
+                <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>Carta</em>. Sirve para que el jugador pueda determinar el valor de las cartas</p>
+                <h4>Feature</h4>
+                <p></p>
+                <img src="https://user-images.githubusercontent.com/54086394/102273465-5c818f80-3ef0-11eb-8fb5-be9fbb44c685.png"/>
+                <h4>STEPS</h4>
+                <p></p>
+                <img src="https://user-images.githubusercontent.com/54086394/102273468-5d1a2600-3ef0-11eb-898d-f8661cae59b4.png"/>
        </ol> 
