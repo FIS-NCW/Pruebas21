@@ -14,4 +14,4 @@
   
 <h1> 2) ¿Que es el juego del 21?</h1>
 
-<p>El juego del 21, o <a href="https://es.wikipedia.org/wiki/Blackjack" target="_blank" > BlackJack </a>,es un juego de cartas que usualmente se suele jugar en casinos. En si este juego de cartas cuenta con una o mas <a href="https://es.wikipedia.org/wiki/Baraja_inglesa" target="_blank">barajas inglesas</a></p>
+<p>El juego del 21, o <a href="https://es.wikipedia.org/wiki/Blackjack" target="_blank" > BlackJack </a>,es un juego de cartas que usualmente se suele jugar en casinos. En si este juego de cartas cuenta con una o mas <a href="https://es.wikipedia.org/wiki/Baraja_inglesa" target="_blank">barajas inglesas</a>  de 52 cartas sin los comodines, que consiste en sumar un valor lo más próximo a 21 pero sin pasarse. Usualmente, cada jugador se enfrenta contra el repartidor o cuprier</p>
