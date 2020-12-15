@@ -66,11 +66,11 @@
         
 <h1> 5) Realizar pruebas de aceptacion</h1>        
        <ol>
-            <li>Como repartidor quiero barajar.</li>
-            <li>Como repartidor quiero entregar 2 cartas para iniciar el juego.</li>
-            <li>Como jugador quiero determinar el valor de una carta para determinar el valor de la mano.</li>
-            <li>Como jugador quiero determinar el valor de la mano para seguir jugando.</li>
-            <li>Como jugador quiero solicitar una carta adicional para seguir jugando.</li>
-            <li>Como jugador quiero plantarme para finalizar el turno.</li>
-            <li>Como repartidor quiero saber el valor de las manos para determinar quién gana.</li>
+            <li><b>Como repartidor quiero barajar.</b></li>
+            <li><b>Como repartidor quiero entregar 2 cartas para iniciar el juego.</b></li>
+            <li><b>Como jugador quiero determinar el valor de una carta para determinar el valor de la mano.</b></li>
+            <li><b>Como jugador quiero determinar el valor de la mano para seguir jugando.</b></li>
+            <li><b>Como jugador quiero solicitar una carta adicional para seguir jugando.</b></li>
+            <li><b>Como jugador quiero plantarme para finalizar el turno.</b></li>
+            <li><b>Como repartidor quiero saber el valor de las manos para determinar quién gana.</b></li>
        </ol> 
