@@ -20,9 +20,9 @@
         <li><big><b>Reglas</b></big></li>
                 <ul type="square">
                         <li><b>Pedir carta:</b>  El croupier reparte una carta más al jugador. Si las cartas suman más de 21 puntos, pierde automáticamente y pasa el turno.</li>
-                        <li><b>Plantarse:</b> El jugador se queda con las cartas que tiene y pasa el turno al siguiente jugador. <p>Ademas el jugador posee otras opciones: </p></li>
+                        <li><b>Plantarse:</b> El jugador se queda con las cartas que tiene y pasa el turno al siguiente jugador. <p><EM>Ademas el jugador posee otras opciones: </EM></p></li>
                         <li><b>Rendirse:</b> El jugador se puede rendir antes de realizar cualquier otra acción. Recupera la mitad de lo apostado.</li>
-                        <li><b>Doblar:</b> Un jugador puede doblar la apuesta si tiene 9, 10 u 11 puntos. Si se dobla, el croupier reparte una carta más al jugador y termina el turno.</li>
+                        <li><b>Doblar:</b> Un jugador puede doblar la apuesta si tiene 9, 10 u 11 puntos. Si se dobla, el croupier reparte una carta más al jugador y termina el                turno.</li>
                         <li><b>Dividir:</b> Cuando las 2 primeras cartas valen lo mismo, se pueden dividir en 2 jugadas independientes con su propia apuesta cada una.</li> 
                         <ul type="circle">
                                 <li>Si se dividen 2 ases sólo se reparte una carta a cada jugada y se termina el turno.</li>
