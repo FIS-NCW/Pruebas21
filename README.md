@@ -45,8 +45,15 @@
         </ul>    
         </ol>
 <h1>3)Historias de usuario que se definieron para este juego:</h1>
-        <p>Las historias de usuario son una representación de un requisito escrito en una o dos frases utilizando el lenguaje común del usuario. en palabras mas simples: son pequeñas descripciones de los requerimientos de un cliente. <br>Para el juego del 21 o BlackJack se tuvieron en cuenta las siguientes:</p>
-
+        <p>Las historias de usuario son una representación de un requisito escrito en una o dos frases utilizando el lenguaje común del usuario. en palabras mas simples: son pequeñas descripciones de los requerimientos de un cliente. <br>Teniendo en cuenta las reglas descritas anteriormente y su paso a paso, se tuvieron en cuenta las siguientes, por simplicidad del proyecto</p>
+        <ul type="circle">
+            <li>Como repartidor quiero entregar 2 cartas para iniciar el juego.</li>
+            <li>Como jugador quiero determinar el valor de la mano para seguir jugando.</li>
+            <li>Como jugador quiero plantarme para finalizar el turno.</li>
+            <li>Como jugador quiero solicitar una carta adicional para seguir jugando.</li>
+            <li> Como jugador quiero determinar el valor de una carta para determinar el valor de la mano.</li>  
+            <li>Como repartidor quiero barajar.</li>
+        </ul>  
 
 <h1> 4) ¿Como realizar las pruebas de aceptacion mediante (<EM><U>BEHAVE</U></EM>) comando de Python?</h1>
 <p>Para realizar este tipo de pruebas, con el comando <EM>BEHAVE</EM> de python. Primero debemos seguir una lista de pasos, como primero tener instalado este lenguaje de programacion en nuestro sistema, un entorno de programacion (como Pycharm o el propio Visual Studio Code) y un administrador de paquetes que nos permitira instalar el <EM>BEHAVE</EM>, que para este caso sera el <b><EM>PIP</EM></b>.</p>
