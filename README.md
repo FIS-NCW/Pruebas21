@@ -94,11 +94,11 @@
             <li><b>Como jugador quiero determinar el valor de la mano para seguir jugando.</b></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>Mano</em>. Sirve para que el jugador pueda determinar de su mano y de esta forma pueda escoger otras opciones.</p>
                 <h4>Feature</h4>
-                <p></p>
-                <img src="https://user-images.githubusercontent.com/54086394/102273465-5c818f80-3ef0-11eb-8fb5-be9fbb44c685.png"/>
+                <p>En este caso, el feature tiene el escenario Outline de determinar el valor de la mano, se da, dada una mano de un jugador y se quiera determina el valor de esta,  ademas de comprobar que este es valido.</p>
+                <img src="https://user-images.githubusercontent.com/54086394/102279677-cd797500-3ef9-11eb-9091-f2a0660879e3.png"/>
                 <h4>STEPS</h4>
-                <p></p>
-                <img src="https://user-images.githubusercontent.com/54086394/102273468-5d1a2600-3ef0-11eb-898d-f8661cae59b4.png"/>
+                <p>En los steps, vemos la implementacion mediante <SAMP>Def</SAMP> de los <SAMP>@Given, @When y @Then</SAMP>, Esto hace que el programa: Dada una mano, cuando el jugador quiere saber el valor de este, corrobora que su valor sea correcto.</p>
+                <img src="https://user-images.githubusercontent.com/54086394/102276525-ed5a6a00-3ef4-11eb-809d-a5dd3f0cc13f.png"/>
             <li><b>Como jugador quiero solicitar una carta adicional para seguir jugando.</b></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>SolicitarCarta</em>. Sirve para que el jugador obtenga una nueva carta dada por el repartidor</p>
                 <h4>Feature</h4>
