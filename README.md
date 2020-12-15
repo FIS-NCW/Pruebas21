@@ -58,7 +58,6 @@
 <h1> 4) ¿Como realizar las pruebas de aceptacion mediante (<EM><U>BEHAVE</U></EM>) comando de Python?</h1>
 <p>Para realizar este tipo de pruebas, con el comando <EM>BEHAVE</EM> de python. Primero debemos seguir una lista de pasos, como primero tener instalado este <a href="https://www.youtube.com/watch?v=-IyA_Yvs8IQ" target="_blank" >lenguaje de programacion</a> en nuestro sistema, un entorno de programacion (como <a href="https://www.youtube.com/watch?v=kJP7f7cU03M">Pycharm</a> o el propio <a href="https://www.youtube.com/watch?v=HVzFLw5r2EM">Visual Estudio Code</a>) y un administrador de paquetes que nos permitira instalar el <EM>BEHAVE</EM>, que para este caso sera el <b><EM>PIP</EM></b>.</p>
         <ol>
-        <li>Instalacion del administrador de paquetes <b>PIP</b>:<br><p>Una vez que tengamos instalado el lenguaje de programacion Python y un entorno de nuestro gusto, debemos instalar el PIP en nuestro sistema</p></li>
-            <li>Andres</li>
-            <li>Natalia</li>
+        <li>Instalacion del administrador de paquetes <b>PIP</b>:<br><p>Una vez que tengamos instalado el lenguaje de programacion Python y un entorno de nuestro gusto, debemos instalar el PIP en nuestro sistema. (esta parte viene mas dada para las personas que no tienen el comando <pip> en su sistema, y a continuacion se mostrara como agregarlo a las variables 'path' del sistema).</p></li>
+            <li>Instalar Behave</li>
         </ol>
