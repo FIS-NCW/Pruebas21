@@ -6,7 +6,6 @@ from carta import Carta
 @given('un {mazo} para jugar 21')
 def implementacion(context,mazo):
     context.mazo = mazo
-    print("*********************************************************************************")
 
 @when('el repartidor reparte una {carta1} y luego otra {carta2}')
 def implementacion(context,carta1,carta2):
