@@ -1,4 +1,4 @@
-<h1 style="text-align:center">Juego del 21<h1>
+<h1 style="text-align:center">Juego del 21 - Pruebas automaticas con <EM>BEHAVE</EM><h1>
         <h2>Integrantes: </h2>
         <ul type="square">
             <li> Andres Felipe Wilches Torres - 20172020114</li>
