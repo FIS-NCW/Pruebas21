@@ -68,7 +68,7 @@
 <h1> 5) Realizar pruebas de aceptacion</h1>
         <p>Las pruebas de usuario estan compuestas por dos tipos de archivo: El <em>STEPS</em> y el <em>Feature</em>.</br>Usamos los features donde creamos la test suite para verificar un requerimiento determinado. El archivo feature contiene escenarios donde definimos los pasos Given->When->Then para verificar los criterios de aceptación de la funcionalidad en desarrollo. </br> Entonces, vamos a tener muchos archivos features con criterios de aceptación que describen los comportamientos de la aplicación y una gran cantidad de código que ejercita la aplicación linkeado a los Given->When->Then que son llamados desde los escenarios en los features.</br> Los STEPS, son los pasos que sigue el programa, por lo que lo que hace behave es comparar los features, que vienen dados por los scenarios y unos valores conocidos, con los steps. Si no suelta errores, el programa tendria sus pruebas de aceptacion validas</br></br>A continuacion mostraremos imagenes de los steps y Features para cada historia de usuario.</p>
        <ol>
-            <li><b>Como repartidor quiero barajar.</b></li>
+        <li><h3><b>Como repartidor quiero barajar.</b></h3></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>barajar</em>. Revuelve las cartas.</p>
                 <h4>Feature</h4>
                 <p>En este caso, el feature tiene el escenario de barajar, dado un mazo de 52 cartas para jugar al 21. Esta accion se da cuando el repartidor baraja (revuelve) el mazo, luego de esto se comprueba que las cartas no sean iguales</p>
