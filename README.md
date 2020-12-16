@@ -68,7 +68,7 @@
 <h1> 5) Realizar pruebas de aceptacion</h1>
         <p>Las pruebas de usuario estan compuestas por dos tipos de archivo: El <em>STEPS</em> y el <em>Feature</em>.</br>Usamos los features donde creamos la test suite para verificar un requerimiento determinado. El archivo feature contiene escenarios donde definimos los pasos Given->When->Then para verificar los criterios de aceptación de la funcionalidad en desarrollo. </br> Entonces, vamos a tener muchos archivos features con criterios de aceptación que describen los comportamientos de la aplicación y una gran cantidad de código que ejercita la aplicación linkeado a los Given->When->Then que son llamados desde los escenarios en los features.</br> Los STEPS, son los pasos que sigue el programa, por lo que lo que hace behave es comparar los features, que vienen dados por los scenarios y unos valores conocidos, con los steps. Si no suelta errores, el programa tendria sus pruebas de aceptacion validas</br></br>A continuacion mostraremos imagenes de los steps y Features para cada historia de usuario.</p>
        <ol>
-            <li><b>Como repartidor quiero barajar.</b></li>
+        <li><h3><b>Como repartidor quiero barajar.</b></h3></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>barajar</em>. Revuelve las cartas.</p>
                 <h4>Feature</h4>
                 <p>En este caso, el feature tiene el escenario de barajar, dado un mazo de 52 cartas para jugar al 21. Esta accion se da cuando el repartidor baraja (revuelve) el mazo, luego de esto se comprueba que las cartas no sean iguales</p>
@@ -76,7 +76,7 @@
                 <h4>STEPS</h4>
         <p>En los steps, vemos la implementacion mediante <SAMP>Def</SAMP> de los <SAMP>@Given, @When y @Then</SAMP> dos veces, ya que tambien toca corroborar la cantidad de cartas, que es 52.</p>
                 <img src="https://user-images.githubusercontent.com/54086394/102276525-ed5a6a00-3ef4-11eb-809d-a5dd3f0cc13f.png"/>
-            <li><b>Como repartidor quiero entregar 2 cartas para iniciar el juego.</b></li>
+        <li><h3><b>Como repartidor quiero entregar 2 cartas para iniciar el juego.</b></h3></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>InicioJuego</em>. Sirve para empezar el juego</p>
                 <h4>Feature</h4>
                 <p></p>
@@ -84,7 +84,7 @@
                 <h4>STEPS</h4>
                 <p></p>
                 <img src="https://user-images.githubusercontent.com/54086394/102273468-5d1a2600-3ef0-11eb-898d-f8661cae59b4.png"/>
-            <li><b>Como jugador quiero determinar el valor de una carta para determinar el valor de la mano.</b></li>
+            <li><h3><b>Como jugador quiero determinar el valor de una carta para determinar el valor de la mano.</b></h3></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>Carta</em>. Sirve para que el jugador pueda determinar el valor de las cartas</p>
                 <h4>Feature</h4>
                 <p>En este caso, el feature tiene el escenario outline de determinar el valor de la carta, se da, para una carta de modo que el jugador desee conocer su valor, luego se corrobora que el valor de dicha carta es correcto (corresponde al valor de las cartas conocidas).</br> Ademas se agrega los <samp>Examples</samp> o ejemplos conocidos y ciertos.</p>
@@ -92,7 +92,7 @@
                 <h4>STEPS</h4>
                 <p>En los steps, vemos la implementacion mediante <SAMP>Def</SAMP> de los <SAMP>@Given, @When y @Then</SAMP>, Esto hace que el programa: Dada una carta, cuando el jugador quiere saber el valor de esta, corrobora que su valor sea correcto.</p>
                 <img src="https://user-images.githubusercontent.com/54086394/102273468-5d1a2600-3ef0-11eb-898d-f8661cae59b4.png"/>
-            <li><b>Como jugador quiero determinar el valor de la mano para seguir jugando.</b></li>
+            <li><h3><b>Como jugador quiero determinar el valor de la mano para seguir jugando.</b></h3></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>Mano</em>. Sirve para que el jugador pueda determinar de su mano y de esta forma pueda escoger otras opciones.</p>
                 <h4>Feature</h4>
                 <p>En este caso, el feature tiene el escenario Outline de determinar el valor de la mano, se da, dada una mano de un jugador y se quiera determina el valor de esta,  ademas de comprobar que este es valido.</p>
@@ -100,7 +100,7 @@
                 <h4>STEPS</h4>
                 <p>En los steps, vemos la implementacion mediante <SAMP>Def</SAMP> de los <SAMP>@Given, @When y @Then</SAMP>, Esto hace que el programa: Dada una mano, cuando el jugador quiere saber el valor de este, corrobora que su valor sea correcto.</p>
                 <img src="https://user-images.githubusercontent.com/54086394/102276525-ed5a6a00-3ef4-11eb-809d-a5dd3f0cc13f.png"/>
-            <li><b>Como jugador quiero solicitar una carta adicional para seguir jugando.</b></li>
+            <li><h3><b>Como jugador quiero solicitar una carta adicional para seguir jugando.</b></h3></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>SolicitarCarta</em>. Sirve para que el jugador obtenga una nueva carta dada por el repartidor</p>
                 <h4>Feature</h4>
                 <p></p>
@@ -108,12 +108,12 @@
                 <h4>STEPS</h4>
                 <p></p>
                 <img src="https://user-images.githubusercontent.com/54086394/102273468-5d1a2600-3ef0-11eb-898d-f8661cae59b4.png"/>
-            <li><b>Como jugador quiero plantarme para finalizar el turno.</b></li>
+            <li><h3><b>Como jugador quiero plantarme para finalizar el turno.</b></h3></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>Plantar</em>. Sirve para terminar el juego, no se reciben mas cartas por parte del jugador</p>
                 <h4>Feature</h4>
                 <p></p>
                 <img src="https://user-images.githubusercontent.com/54086394/102273465-5c818f80-3ef0-11eb-8fb5-be9fbb44c685.png"/>
-            <li><b>Como repartidor quiero saber el valor de las manos para determinar quién gana.</b></li>
+            <li><h3><b>Como repartidor quiero saber el valor de las manos para determinar quién gana.</b></h3></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>ValorManos</em>. Sirve para que el repartidor sepa el valor de las manos de los jugadores y asi determina quien gana</p>
                 <h4>Feature</h4>
                 <p>Para este caso, tenemos el escenario Outline para conocer el valor de la mano para determinar un ganador, se da cuando se tienen dos manos y se quiere determinar los valores por que los jugadores se plantan, finalmente se corrobora los valores que sean correctos, tambien hay ejemplos.</p>
