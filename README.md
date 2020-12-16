@@ -79,11 +79,11 @@
             <li><b>Como repartidor quiero entregar 2 cartas para iniciar el juego.</b></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>InicioJuego</em>. Sirve para empezar el juego</p>
                 <h4>Feature</h4>
-                <p></p>
-                <img src="https://user-images.githubusercontent.com/54086394/102273465-5c818f80-3ef0-11eb-8fb5-be9fbb44c685.png"/>
+                <p>En este caso, el feature tiene el escenario outline de repartir las cartas para comenzar el juego. Este escenario se da, cuando se tiene un mazo para jugar 21, de ahi el repartidor da dos (2) cartas al jugador y luego la mano es correcta</p>
+                <img src="https://user-images.githubusercontent.com/54086394/102286942-5519b080-3f07-11eb-80c5-a4a0212189a6.png"/>
                 <h4>STEPS</h4>
-                <p></p>
-                <img src="https://user-images.githubusercontent.com/54086394/102273468-5d1a2600-3ef0-11eb-898d-f8661cae59b4.png"/>
+                <p>En los steps vemos la implementacion mediante <SAMP>Def</SAMP> de los <SAMP>@Given, @When y @Then</SAMP>, de la reparticion de las dos cartas cada una con su valor y su pinta y agregamos a la mano, cada carta para finalmente corroborar que esta sea correcta</p>
+                <img src="https://user-images.githubusercontent.com/54086394/102287242-07ea0e80-3f08-11eb-9561-73fbf0bf1c87.png"/>
             <li><b>Como jugador quiero determinar el valor de una carta para determinar el valor de la mano.</b></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>Carta</em>. Sirve para que el jugador pueda determinar el valor de las cartas</p>
                 <h4>Feature</h4>
