@@ -4,6 +4,7 @@ class Mano:
     
     def __init__(self):
         self.cartas=[]
+        
 
     def mano_con_lista(self, lista):
          for t in lista:
@@ -30,6 +31,7 @@ class Mano:
     def dar_cantidad_cartas(self):
         return len(self.cartas)
 
-
+    def plantar(self,valor):
+            return (valor>=18)
 
         
