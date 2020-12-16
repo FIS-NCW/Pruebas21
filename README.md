@@ -128,5 +128,6 @@
 <h1> 6)Resultado pruebas</h1>
         <p>Al ejecutar el comando behave en la raiz de la ubicacion de nuestro programa, se obtuvieron los siguientes resultados:</p>
         <h4>Al ejecutar el comando BEHAVE</h4>
-                <p>Al ejecutar las pruebas de aceptacion dadas las historias de usuario (7) en total, vemos que los 40 escenarios pasaron y se ejecutaron 121 pasos, ninguno paso. El tiempo de ejecucion fue de 0.124s.</p>
+                <p>Al ejecutar las pruebas de aceptacion dadas las historias de usuario (7) en total, vemos que los 40 escenarios pasaron y se ejecutaron 121 pasos, nada fallo. El tiempo de ejecucion fue de 0.124s.</p>
                 <img src="https://user-images.githubusercontent.com/54086394/102309004-d4be7400-3f35-11eb-8fb5-a6f13b817ac5.png"/>
+                <p>Finalmente asi es como se crean unas pruebas automaticas, en este caso para el juego del 21 o BlackJack. Bajo el criterio de cada organizacion se pueden agregar mas historias de usuario.</p>
