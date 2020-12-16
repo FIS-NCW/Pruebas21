@@ -83,7 +83,7 @@
                 <img src="https://user-images.githubusercontent.com/54086394/102286942-5519b080-3f07-11eb-80c5-a4a0212189a6.png"/>
                 <h4>STEPS</h4>
                 <p>En los steps vemos la implementacion mediante <SAMP>Def</SAMP> de los <SAMP>@Given, @When y @Then</SAMP>, de la reparticion de las dos cartas cada una con su valor y su pinta y agregamos a la mano, cada carta para finalmente corroborar que esta sea correcta</p>
-                <img src="https://user-images.githubusercontent.com/54086394/102287242-07ea0e80-3f08-11eb-9561-73fbf0bf1c87.png"/>
+                <img src="https://user-images.githubusercontent.com/54086394/102286996-77abc980-3f07-11eb-82b4-189a65e9bcac.png"/>
             <li><b>Como jugador quiero determinar el valor de una carta para determinar el valor de la mano.</b></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>Carta</em>. Sirve para que el jugador pueda determinar el valor de las cartas</p>
                 <h4>Feature</h4>
