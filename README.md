@@ -91,7 +91,7 @@
                 <img src="https://user-images.githubusercontent.com/54086394/102273465-5c818f80-3ef0-11eb-8fb5-be9fbb44c685.png"/>
                 <h4>STEPS</h4>
                 <p>En los steps, vemos la implementacion mediante <SAMP>Def</SAMP> de los <SAMP>@Given, @When y @Then</SAMP>, Esto hace que el programa: Dada una carta, cuando el jugador quiere saber el valor de esta, corrobora que su valor sea correcto.</p>
-                <img src="https://user-images.githubusercontent.com/54086394/102273468-5d1a2600-3ef0-11eb-898d-f8661cae59b4.png"/>
+                <img src="https://user-images.githubusercontent.com/54086394/102308673-2c101480-3f35-11eb-9a13-498654ed894e.png"/>
             <li><h3><b>Como jugador quiero determinar el valor de la mano para seguir jugando.</b></h3></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>Mano</em>. Sirve para que el jugador pueda determinar de su mano y de esta forma pueda escoger otras opciones.</p>
                 <h4>Feature</h4>
@@ -103,11 +103,11 @@
             <li><h3><b>Como jugador quiero solicitar una carta adicional para seguir jugando.</b></h3></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>SolicitarCarta</em>. Sirve para que el jugador obtenga una nueva carta dada por el repartidor</p>
                 <h4>Feature</h4>
-                <p>En este caso, tenemos el escenario outline, </p>
-                <img src="https://user-images.githubusercontent.com/54086394/102273465-5c818f80-3ef0-11eb-8fb5-be9fbb44c685.png"/>
+                <p>En este caso, tenemos el escenario outline, para solicitar una carta adicional, se da cuando dada una mano del jugador, su cantidad es menor que 18. Al darle la carta se comprueba si el resultado esta bien</p>
+                <img src="https://user-images.githubusercontent.com/54086394/102308874-8dd07e80-3f35-11eb-8ca6-c1bd0036c96d.png"/>
                 <h4>STEPS</h4>
-                <p></p>
-                <img src="https://user-images.githubusercontent.com/54086394/102273468-5d1a2600-3ef0-11eb-898d-f8661cae59b4.png"/>
+                <p>En los steps, vemos la implementacion mediante <SAMP>Def</SAMP> de los <SAMP>@Given, @When y @Then</SAMP>, Esto hace que el programa: Dada una mano, cuando su valor sea menor que 18, este solicite una carta extra</p>
+                <img src="https://user-images.githubusercontent.com/54086394/102308871-8c9f5180-3f35-11eb-96a7-1bc4d2f1371c.png"/>
             <li><h3><b>Como jugador quiero plantarme para finalizar el turno.</b></h3></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>Plantar</em>. Sirve para terminar el juego, no se reciben mas cartas por parte del jugador</p>
                 <h4>Feature</h4>
@@ -128,5 +128,5 @@
 <h1> 6)Resultado pruebas</h1>
         <p>Al ejecutar el comando behave en la raiz de la ubicacion de nuestro programa, se obtuvieron los siguientes resultados:</p>
         <h4>Al ejecutar el comando BEHAVE</h4>
-                <p></p>
-                <img src="https://user-images.githubusercontent.com/54086394/102273468-5d1a2600-3ef0-11eb-898d-f8661cae59b4.png"/>
+                <p>Al ejecutar las pruebas de aceptacion dadas las historias de usuario (7) en total, vemos que los 40 escenarios pasaron y se ejecutaron 121 pasos, ninguno paso. El tiempo de ejecucion fue de 0.124s.</p>
+                <img src="(https://user-images.githubusercontent.com/54086394/102309004-d4be7400-3f35-11eb-8fb5-a6f13b817ac5.png"/>
