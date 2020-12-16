@@ -77,13 +77,13 @@
         <p>En los steps, vemos la implementacion mediante <SAMP>Def</SAMP> de los <SAMP>@Given, @When y @Then</SAMP> dos veces, ya que tambien toca corroborar la cantidad de cartas, que es 52.</p>
                 <img src="https://user-images.githubusercontent.com/54086394/102276525-ed5a6a00-3ef4-11eb-809d-a5dd3f0cc13f.png"/>
         <li><h3><b>Como repartidor quiero entregar 2 cartas para iniciar el juego.</b></h3></li>
-                <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>InicioJuego</em>. Sirve para empezar el juego</p>
+                <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>InicioJuego</em>. Sirve para empezar el juego, dado un mazo para jugar 21 y cuando el repartidor reparta las dos cartas, se comprueba que la mano es correcta</p>
                 <h4>Feature</h4>
-                <p></p>
-                <img src="https://user-images.githubusercontent.com/54086394/102273465-5c818f80-3ef0-11eb-8fb5-be9fbb44c685.png"/>
+                <p>En este caso, el feature tiene el escenario de iniciar el juego,vemos la implementacion mediante <SAMP>Def</SAMP> de los <SAMP>@Given, @When y @Then</SAMP>De dado un mazo, la reparticion de dos cartas y la comprobacion de que el mazo sea correcto</p>
+                <img src="https://user-images.githubusercontent.com/54086394/102301068-20682200-3f24-11eb-845d-2606f6dc60ce.png"/>
                 <h4>STEPS</h4>
                 <p></p>
-                <img src="https://user-images.githubusercontent.com/54086394/102273468-5d1a2600-3ef0-11eb-898d-f8661cae59b4.png"/>
+                <img src="https://user-images.githubusercontent.com/54086394/102301090-278f3000-3f24-11eb-8658-295d66a87b7f.png"/>
             <li><h3><b>Como jugador quiero determinar el valor de una carta para determinar el valor de la mano.</b></h3></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>Carta</em>. Sirve para que el jugador pueda determinar el valor de las cartas</p>
                 <h4>Feature</h4>
