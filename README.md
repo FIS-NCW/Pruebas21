@@ -99,7 +99,7 @@
                 <img src="https://user-images.githubusercontent.com/54086394/102279677-cd797500-3ef9-11eb-9091-f2a0660879e3.png"/>
                 <h4>STEPS</h4>
                 <p>En los steps, vemos la implementacion mediante <SAMP>Def</SAMP> de los <SAMP>@Given, @When y @Then</SAMP>, Esto hace que el programa: Dada una mano, cuando el jugador quiere saber el valor de este, corrobora que su valor sea correcto.</p>
-                <img src="https://user-images.githubusercontent.com/54086394/102276525-ed5a6a00-3ef4-11eb-809d-a5dd3f0cc13f.png"/>
+                <img src="https://user-images.githubusercontent.com/54086394/102287242-07ea0e80-3f08-11eb-9561-73fbf0bf1c87.png"/>
             <li><b>Como jugador quiero solicitar una carta adicional para seguir jugando.</b></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>SolicitarCarta</em>. Sirve para que el jugador obtenga una nueva carta dada por el repartidor</p>
                 <h4>Feature</h4>
