@@ -1,7 +1,7 @@
 from behave import *
 from mano import Mano
 
-@given('una {mano}')
+@given('una {mano} para plantarse')
 def implementacion(context,mano):
     context.mano=Mano()
     context.mano.mano_con_lista(mano.split(";"))

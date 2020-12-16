@@ -2,8 +2,8 @@ Feature: Plantarme
 
     Como jugador quiero plantarme para finalizar el turno.
 
-Scenario Outline: determinar valor de la mano
-Given una <mano>
+Scenario Outline: Plantarme
+Given una <mano> para plantarse
 When el <valor> de la mano es >= que 18
 Then <plantar> es correcto
 
