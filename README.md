@@ -79,11 +79,11 @@
         <li><h3><b>Como repartidor quiero entregar 2 cartas para iniciar el juego.</b></h3></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>InicioJuego</em>. Sirve para empezar el juego</p>
                 <h4>Feature</h4>
-                <p>En este caso, el feature tiene el escenario outline de repartir las cartas para comenzar el juego. Este escenario se da, cuando se tiene un mazo para jugar 21, de ahi el repartidor da dos (2) cartas al jugador y luego la mano es correcta</p>
-                <img src="https://user-images.githubusercontent.com/54086394/102286942-5519b080-3f07-11eb-80c5-a4a0212189a6.png"/>
+                <p></p>
+                <img src="https://user-images.githubusercontent.com/54086394/102273465-5c818f80-3ef0-11eb-8fb5-be9fbb44c685.png"/>
                 <h4>STEPS</h4>
-                <p>En los steps vemos la implementacion mediante <SAMP>Def</SAMP> de los <SAMP>@Given, @When y @Then</SAMP>, de la reparticion de las dos cartas cada una con su valor y su pinta y agregamos a la mano, cada carta para finalmente corroborar que esta sea correcta</p>
-                <img src="https://user-images.githubusercontent.com/54086394/102286996-77abc980-3f07-11eb-82b4-189a65e9bcac.png"/>
+                <p></p>
+                <img src="https://user-images.githubusercontent.com/54086394/102273468-5d1a2600-3ef0-11eb-898d-f8661cae59b4.png"/>
             <li><h3><b>Como jugador quiero determinar el valor de una carta para determinar el valor de la mano.</b></h3></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>Carta</em>. Sirve para que el jugador pueda determinar el valor de las cartas</p>
                 <h4>Feature</h4>
@@ -99,7 +99,7 @@
                 <img src="https://user-images.githubusercontent.com/54086394/102279677-cd797500-3ef9-11eb-9091-f2a0660879e3.png"/>
                 <h4>STEPS</h4>
                 <p>En los steps, vemos la implementacion mediante <SAMP>Def</SAMP> de los <SAMP>@Given, @When y @Then</SAMP>, Esto hace que el programa: Dada una mano, cuando el jugador quiere saber el valor de este, corrobora que su valor sea correcto.</p>
-                <img src="https://user-images.githubusercontent.com/54086394/102287242-07ea0e80-3f08-11eb-9561-73fbf0bf1c87.png"/>
+                <img src="https://user-images.githubusercontent.com/54086394/102276525-ed5a6a00-3ef4-11eb-809d-a5dd3f0cc13f.png"/>
             <li><h3><b>Como jugador quiero solicitar una carta adicional para seguir jugando.</b></h3></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>SolicitarCarta</em>. Sirve para que el jugador obtenga una nueva carta dada por el repartidor</p>
                 <h4>Feature</h4>
@@ -111,17 +111,16 @@
             <li><h3><b>Como jugador quiero plantarme para finalizar el turno.</b></h3></li>
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>Plantar</em>. Sirve para terminar el juego, no se reciben mas cartas por parte del jugador</p>
                 <h4>Feature</h4>
-                <img src="https://user-images.githubusercontent.com/54086394/102273465-5c818f80-3ef0-11eb-8fb5-be9fbb44c685.png"/>
                 <p></p>
                 <img src="https://user-images.githubusercontent.com/54086394/102273465-5c818f80-3ef0-11eb-8fb5-be9fbb44c685.png"/>
             <li><h3><b>Como repartidor quiero saber el valor de las manos para determinar quién gana.</b></h3></li>
-                <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>SaberValorManos</em>. Sirve para que el repartidor sepa el valor de las manos de los jugadores y asi determina quien gana</p>
+                <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>ValorManos</em>. Sirve para que el repartidor sepa el valor de las manos de los jugadores y asi determina quien gana</p>
                 <h4>Feature</h4>
-                <p></p>
-                <img src="https://user-images.githubusercontent.com/54086394/102288770-2f8ea600-3f0b-11eb-9e47-72944f04d4e2.png"/>
+                <p>Para este caso, tenemos el escenario Outline para conocer el valor de la mano para determinar un ganador, se da cuando se tienen dos manos y se quiere determinar los valores por que los jugadores se plantan, finalmente se corrobora los valores que sean correctos, tambien hay ejemplos.</p>
+                <img src="https://user-images.githubusercontent.com/54086394/102273465-5c818f80-3ef0-11eb-8fb5-be9fbb44c685.png"/>
                 <h4>STEPS</h4>
-                <p></p>
-                <img src="https://user-images.githubusercontent.com/54086394/102288788-37e6e100-3f0b-11eb-917b-c1aaa54c9001.png"/>
+                <p>En los steps, vemos la implementacion mediante <SAMP>Def</SAMP> de los <SAMP>@Given, @When y @Then</SAMP>, Esto hace que el programa: Dada dos manos, cuando estos jugadores se plantan y se quiere saber el valor de estas, luego se corrobora que los valores sean correctos.</p>
+                <img src="https://user-images.githubusercontent.com/54086394/102273468-5d1a2600-3ef0-11eb-898d-f8661cae59b4.png"/>
        </ol>
 <h1> 6)Resultado pruebas</h1>
         <p>Al ejecutar el comando behave en la raiz de la ubicacion de nuestro programa, se obtuvieron los siguientes resultados:</p>
