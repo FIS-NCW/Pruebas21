@@ -117,10 +117,10 @@
                 <p>Esta historia de usuario, hace alusion a las pruebas de aceptacion <em>ValorManos</em>. Sirve para que el repartidor sepa el valor de las manos de los jugadores y asi determina quien gana</p>
                 <h4>Feature</h4>
                 <p>Para este caso, tenemos el escenario Outline para conocer el valor de la mano para determinar un ganador, se da cuando se tienen dos manos y se quiere determinar los valores por que los jugadores se plantan, finalmente se corrobora los valores que sean correctos, tambien hay ejemplos.</p>
-                <img src="https://user-images.githubusercontent.com/54086394/102273465-5c818f80-3ef0-11eb-8fb5-be9fbb44c685.png"/>
+                <img src="https://user-images.githubusercontent.com/54086394/102300727-725c7800-3f23-11eb-9454-ccb5e4b27d28.png"/>
                 <h4>STEPS</h4>
                 <p>En los steps, vemos la implementacion mediante <SAMP>Def</SAMP> de los <SAMP>@Given, @When y @Then</SAMP>, Esto hace que el programa: Dada dos manos, cuando estos jugadores se plantan y se quiere saber el valor de estas, luego se corrobora que los valores sean correctos.</p>
-                <img src="https://user-images.githubusercontent.com/54086394/102273468-5d1a2600-3ef0-11eb-898d-f8661cae59b4.png"/>
+                <img src="https://user-images.githubusercontent.com/54086394/102300771-886a3880-3f23-11eb-926c-8c1e8f5d72c8.png"/>
        </ol>
 <h1> 6)Resultado pruebas</h1>
         <p>Al ejecutar el comando behave en la raiz de la ubicacion de nuestro programa, se obtuvieron los siguientes resultados:</p>
