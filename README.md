@@ -6,7 +6,7 @@
             <li>Cristian Felipe Ramirez Ovalles - 20172020068</li>
         </ul>
         
-  <p>En este repositorio, se encontrara el paso a paso (como un tutorial)para las pruebas de aceptacion del juego del 21 o BlackJack.</p>
+  <p>En este repositorio, se encontrara el paso a paso (como un tutorial) para las pruebas de aceptacion del juego del 21 o BlackJack.</p>
   <h4>Nota:</h4><p>El lenguaje de programacion usado en este repositorio sera en Python, mediante el entorno Visual Studio Code y Pycharm</p>
   
   <h1> 1) ¿Que son las pruebas de aceptacion? </h1>
